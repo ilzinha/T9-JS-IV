@@ -1,5 +1,5 @@
-// Analise o objeto produtos e ajuste os erros.
-
+//Dado o objeto, analise a forma que foi declarada. 
+//Em seguida, ajuste o objeto produtos da forma correta de se declarar.
 let produtos = {
   videos: {
     comedia: ["comedia1""comedia2"];
