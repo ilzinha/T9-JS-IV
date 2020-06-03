@@ -27,6 +27,7 @@ class Clientes {
     }
 }
 
+
 //sem o construtor, ele sempre retorna undefined pq eu não passei os parâmetros que deve receber
 
 class Signos {
