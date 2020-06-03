@@ -18,6 +18,8 @@ let produtos = {
 
 }
 
+console.log(produtos)
+
 //criando um objeto de forma nativa:
 const minhaInfos = new Object();
 
