@@ -60,3 +60,4 @@ const cliente3 = new Clientes('Raquel Borges Figueredo', '910.311.425-01', '30/0
 console.table(cliente3)
 console.log(cliente3.descontar())
 console.log(cliente3.verificaCor())
+
